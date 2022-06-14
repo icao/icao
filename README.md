@@ -1,13 +1,11 @@
 <h2 align="center">
-  Hola, Bienvenido!
+  Hello there, welcome!   I'm <strong>César Aparicio</strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Soy%20Front%20End%20Developer;Y%20mante%20del%20diseño%20web;
-  En%20constante%20aprendizaje&font=Fira%20Code&center=true&width=440&height=45&color=f36&vCenter=true&size=22"></a>
-</p>
+<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=24&duration=5500&color=FF3366&center=true&vCenter=true&width=440&lines=I'm+Front+End+Developer;And+a+lover+of+web+design;Always+in+constant+learning;I+like+to+mix+design+with+technology)](https://git.io/typing-svg)
 
 - 🔭 Actualmente estoy trabajando como Freelance
 - 🌱 Me encuentro aprendiendo ReactJS para poder dominarlo
