@@ -1,15 +1,10 @@
-<!-- <div style="height:200px; border:2px solid red;">
-<img src="https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp" style="width:100%;position:absolute;object-fit:cover" />
+<div style="width:100%;height:400px;border:2px solid red;">
 
-</div> -->
-<div style="
-            width:900px;height:400px;border:2px solid red;
-            background-image: url('https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp');
-            background-size: cover;
-            background-position: bottom;
-            ">
+  <img src="https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp" style="height:100%;width:100%;object-fit:cover" />
 
-<!--   <img src="https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp" style="height:100%;width:100%;object-fit:cover" /> -->
+ </div>
+
+  <!-- <img src="https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp" style="height:100%;width:100%;object-fit:cover" /> -->
 
  </div>
 
