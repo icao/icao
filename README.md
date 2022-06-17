@@ -1,6 +1,5 @@
-
-<div>
-<img src="https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp" style="position:absolute" />
+<div style="height:200px; border:2px solid red;">
+<img src="https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp" style="width:100%;position:absolute;object-fit:cover" />
 
 </div>
 
