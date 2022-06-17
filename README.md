@@ -1,7 +1,18 @@
-<div style="height:200px; border:2px solid red;">
+<!-- <div style="height:200px; border:2px solid red;">
 <img src="https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp" style="width:100%;position:absolute;object-fit:cover" />
 
-</div>
+</div> -->
+<div style="
+            width:900px;height:400px;border:2px solid red;
+            background-image: url('https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp');
+            background-size: cover;
+            background-position: bottom;
+            background-attachment: fixed;
+            ">
+
+<!--   <img src="https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp" style="height:100%;width:100%;object-fit:cover" /> -->
+
+ </div>
 
 <h2 align="center" style="position:relative">
   Hello there, welcome!   I'm <strong>César Aparicio</strong>
