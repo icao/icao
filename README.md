@@ -7,7 +7,6 @@
             background-image: url('https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp');
             background-size: cover;
             background-position: bottom;
-            background-attachment: fixed;
             ">
 
 <!--   <img src="https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp" style="height:100%;width:100%;object-fit:cover" /> -->
