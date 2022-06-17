@@ -1,10 +1,10 @@
-<div style="border:2px solid red;" width="200" height="200">
-  <!-- <img src="https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp" style="height:100%;width:100%;object-fit:cover" /> -->
+<div style="border:2px solid red;position:absolute">
+  <img src="https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp" style="height:100%;width:100%;object-fit:cover" />
 </div>
 
   <!-- <img src="https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp" style="height:100%;width:100%;object-fit:cover" /> -->
 
-<h2 align="center" style="position:relative">
+<h2 align="center" style="position:absolute">
   Hello there, welcome!   I'm <strong>César Aparicio</strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
