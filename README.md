@@ -1,4 +1,10 @@
-<h2 align="center">
+
+<div>
+<img src="https://raw.githubusercontent.com/icao/icao.github.io/main/public/images/bg_home.webp" style="position:absolute" />
+
+</div>
+
+<h2 align="center" style="position:relative">
   Hello there, welcome!   I'm <strong>César Aparicio</strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
