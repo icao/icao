@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hello there, welcome!   I'm <strong style="color:#FFB500">César Aparicio</strong>
+  Hello there, welcome!   I'm <span style="color:#FFB500;font-weight:bold">César Aparicio</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
