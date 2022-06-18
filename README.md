@@ -1,12 +1,18 @@
-<h2 align="center" style="margin: 0 auto">
-  Hello there, welcome!   I'm <strong>César Aparicio</strong>
+<h2 align="center">
+  Hello there, welcome!   I'm <strong style="color:#FFB500">César Aparicio</strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<div style="border:2px solid #FFB500;margin:0 auto">
-  <img src="https://64.media.tumblr.com/90174ed3482ca8180918506ca239f535/aaae0e7494f57993-58/s540x810/88fc6886c38bb2fdb1669a61cd38aeeb45f24730.gifv" style="height:100%;width:50%;object-fit:cover;" />
+<div style="border:2px solid #FFB500;margin:10px auto">
+  
   
 </div>
+
+<img src="https://64.media.tumblr.com/90174ed3482ca8180918506ca239f535/aaae0e7494f57993-58/s540x810/88fc6886c38bb2fdb1669a61cd38aeeb45f24730.gifv" 
+        alt="Picture" 
+        width="800" 
+        height="600" 
+        style="display: block; margin: 0 auto" />
 
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=24&duration=5500&color=FF3366&center=true&vCenter=true&width=640&lines=I'm+Front+End+Developer;And+a+lover+of+web+design;Always+in+constant+learning;I+like+to+mix+design+with+technology)](https://git.io/typing-svg) -->
