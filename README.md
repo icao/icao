@@ -6,6 +6,16 @@
 <div style="border:20px solid #FFB500;margin:10px auto; background-color:#FFB500;height:32px" height="32px" width="800">
 </div>
 
+<style>
+  img {
+    display: block;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+</style>
+
 <img src="https://64.media.tumblr.com/90174ed3482ca8180918506ca239f535/aaae0e7494f57993-58/s540x810/88fc6886c38bb2fdb1669a61cd38aeeb45f24730.gifv"
         alt="Picture"
         width="800"
