@@ -3,9 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<div style="border:2px solid #FFB500;margin:10px auto">
-  
-  
+<div style="border:2px solid #FFB500;margin:10px auto; background-color:#FFB500;height:32px">
 </div>
 
 <img src="https://64.media.tumblr.com/90174ed3482ca8180918506ca239f535/aaae0e7494f57993-58/s540x810/88fc6886c38bb2fdb1669a61cd38aeeb45f24730.gifv" 
