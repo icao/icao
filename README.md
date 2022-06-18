@@ -21,26 +21,26 @@
 
 ## 👾 Technologies that i know and like
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)&nbsp;
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)&nbsp;
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)&nbsp;
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=vuedotjs)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat&logo=nuxtdotjs)&nbsp;
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react)&nbsp;
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat&logo=tailwind-css)&nbsp;
 
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)&nbsp;
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)&nbsp;
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat-square&logo=github&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)&nbsp;
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)&nbsp;
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat-square&logo=ddd&logoColor=white)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat&logo=vite&logoColor=ffffff)&nbsp;
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint)&nbsp;
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat&logo=netlify&logoColor=ffffff)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat&logo=vercel&logoColor=000000)&nbsp;
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
@@ -50,3 +50,5 @@
 - 💻 **[My website](https://icao.vercel.app)**
 - 📫 [LinkedIn](https://www.linkedin.com/in/icao)
 - 🤯 Look litle projects in **[Codepen](https://codepen.io/icao)**
+
+<!-- TODO: AGREGAR MAS BADGES COMO REACT -->
