@@ -33,6 +33,7 @@ In my spare time I collaborate with open source projects 🤖. I have not yet ha
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=vuedotjs)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat&logo=nuxtdotjs)&nbsp;
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-%231a202c?style=flat&logo=tailwind-css)&nbsp;
@@ -51,7 +52,6 @@ In my spare time I collaborate with open source projects 🤖. I have not yet ha
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 ![PYTHON](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)&nbsp;
-
 
 ## 💬 Contact
 
