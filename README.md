@@ -17,7 +17,11 @@
 
 ## 🤓 About Me
 
-- 🤖 In my spare time I collaborate with open source projects.
+My name is César Aparicio, I am Mexican and currently reside in Mexico City.
+
+I am a Front End Developer, I have passion for implementing modern UI 💗, especially innovative. Curiosity encourages me to be in continuous learning and led me to find an area in web development 🐱‍💻, in which I decided to commit my talent 🐱‍🏍.
+
+In my spare time I collaborate with open source projects 🤖. I have not yet had the opportunity to collaborate in a big one, only in personal projects.
 
 ## 👾 Technologies that i know and like
 
@@ -29,8 +33,9 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=vuedotjs)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat&logo=nuxtdotjs)&nbsp;
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react)&nbsp;
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat&logo=tailwind-css)&nbsp;
-
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-%231a202c?style=flat&logo=tailwind-css)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat&logo=vite&logoColor=ffffff)&nbsp;
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint)&nbsp;
@@ -40,10 +45,13 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat&logo=netlify&logoColor=ffffff)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat&logo=vercel&logoColor=000000)&nbsp;
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
+![PYTHON](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)&nbsp;
+
 
 ## 💬 Contact
 
@@ -51,4 +59,4 @@
 - 📫 [LinkedIn](https://www.linkedin.com/in/icao)
 - 🤯 Look litle projects in **[Codepen](https://codepen.io/icao)**
 
-<!-- TODO: AGREGAR MAS BADGES COMO REACT -->
+<!-- TODO: AGREGAR MAS BADGES COMO NEXT y poner todo en mayusculas -->
