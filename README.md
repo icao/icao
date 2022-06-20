@@ -23,7 +23,7 @@ I am a Front End Developer, I have passion for implementing modern UI 💗, espe
 
 In my spare time I collaborate with open source projects 🤖. I have not yet had the opportunity to collaborate in a big one, only in personal projects.
 
-## 👾 Technologies that i know and like
+## 👾 Technologies That I Know And Like
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -65,5 +65,15 @@ In my spare time I collaborate with open source projects 🤖. I have not yet ha
 - 💻 **[My website](https://icao.vercel.app)**
 - 📫 [LinkedIn](https://www.linkedin.com/in/icao)
 - 🤯 Look litle projects in **[Codepen](https://codepen.io/icao)**
+
+## My GitHub Statistics
+
+<p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=icao&hide_border=true&theme=radical" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=icao&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" />
+         <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icao&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
+    </p>
 
 <!-- TODO: AGREGAR MAS BADGES COMO NEXT y poner todo en mayusculas -->
