@@ -58,8 +58,7 @@ In my spare time I collaborate with open source projects 🤖. I have not yet ha
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logoColor=white)&nbsp;
 
 ## 💬 Contact
 
