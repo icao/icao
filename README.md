@@ -60,20 +60,18 @@ In my spare time I collaborate with open source projects 🤖. I have not yet ha
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logoColor=white)&nbsp;
 
-## 💬 Contact
+## 📫 Contact
 
 - 💻 **[My website](https://icao.vercel.app)**
-- 📫 [LinkedIn](https://www.linkedin.com/in/icao)
+- 🛠 [LinkedIn](https://www.linkedin.com/in/icao)
 - 🤯 Look litle projects in **[Codepen](https://codepen.io/icao)**
 
-## My GitHub Statistics
+## 🧮My GitHub Statistics
 
 <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=icao&hide_border=true&theme=radical" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=icao&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" />
-         <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icao&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
-    </p>
-
-<!-- TODO: AGREGAR MAS BADGES COMO NEXT y poner todo en mayusculas -->
+  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=icao&hide_border=true&theme=radical" />
+</p>
+<p align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=icao&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icao&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
+</p>
