@@ -6,7 +6,7 @@
 <div align="center">
   <br>
   <br>
-  <img src="https://64.media.tumblr.com/90174ed3482ca8180918506ca239f535/aaae0e7494f57993-58/s540x810/88fc6886c38bb2fdb1669a61cd38aeeb45f24730.gifv" width="600px">
+  <img src="./images/rizler_pro.webp" width="600px">
   <br>
   <br>
 </div>
